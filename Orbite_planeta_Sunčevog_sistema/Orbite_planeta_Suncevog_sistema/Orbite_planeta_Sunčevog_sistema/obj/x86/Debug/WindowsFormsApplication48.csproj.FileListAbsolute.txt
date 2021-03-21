@@ -1,0 +1,10 @@
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.pdb
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.Form1.resources
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.Properties.Resources.resources
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.csproj.GenerateResource.Cache
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.exe
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.pdb
+C:\Users\15\Desktop\ProdavnicaAutomobila\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.csprojResolveAssemblyReference.cache
+C:\Users\15\Desktop\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.exe
+C:\Users\15\Desktop\WindowsFormsApplication48\WindowsFormsApplication48\obj\x86\Debug\WindowsFormsApplication48.pdb
